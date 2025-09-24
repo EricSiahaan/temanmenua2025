@@ -1,6 +1,6 @@
 ---
 title: A beachside celebration
-description: The sandy shores, kissed by gentle waves, provided a serene backdrop for your beach wedding.
+description: Deburan ombak, pasir di kaki, dan tawa yang tak habis. Sederhana, tapi justru itu yang membuatnya tak tergantikan..
 heroImage: ./couple-3-square.jpg
 date: "Jun 12 2024"
 location: Miami, Florida

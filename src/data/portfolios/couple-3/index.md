@@ -1,6 +1,6 @@
 ---
 title: A high-class affair
-description: Relive the elegance of your venue and the grandeur of your wedding through artistic photography.
+description: Lampu kristal, musik lembut, dan kilau gaun putih. Setiap detail tak hanya indah, tapi juga bermakna.
 heroImage: ./couple-4-square.jpg
 date: "Apr 15 2024"
 location: Houston, Texas

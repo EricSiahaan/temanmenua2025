@@ -1,6 +1,6 @@
 ---
-title: A mountain escape
-description: Transform your wedding moments into lasting memories amidst California's majestic mountains.
+title: A journal escape
+description: Sebuah sesi prewedding Hadi &  Chika di sekitaran caffe, di mana dinginnya udara sekitar kalah hangat oleh senyum mereka..
 heroImage: ./couple-9-square.jpg
 date: "Aug 5 2024"
 location: Malibu, California

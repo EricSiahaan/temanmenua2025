@@ -27,7 +27,7 @@
 		@apply ring-primary-300 rounded-none ring-2 transition-none outline-none;
 	}
 	html {
-		@apply bg-base-100 text-base-900 leading-[1.6rem] scheme-light;
+		@apply bg-emerald-800 text-base-900 leading-[1.6rem] scheme-light;
 		scroll-behavior: smooth;
 		-moz-text-size-adjust: none;
 		-webkit-text-size-adjust: none;
