@@ -7,7 +7,7 @@ location: Houston, Texas
 clients: [Julia, David]
 images:
   [
-    [./couple-2-min-3.jpg, ./couple-2-min-3.jpg],
+    [./couple-2-min-1.jpg, ./couple-2-min-2.jpg],
     [./rings-wood-min-3.jpg, ./seals-min-3.jpg, ./rings-wood-min-3.jpg],
     [./couple-9-3.jpg],
     [./cake-min-3.jpg, ./dress-min-3.jpg],
