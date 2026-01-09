@@ -6,8 +6,8 @@
 }
 
 .button--primary {
-	@apply bg-primary-200 text-base-900;
-	@apply hover:bg-primary-200/80;
+	@apply bg-emerald-700 text-base-900;
+	@apply hover:bg-emerald-600/80;
 	@apply focus-visible:ring-primary-300;
 }
 
@@ -18,8 +18,8 @@
 }
 
 .button--outline {
-	@apply border-primary-200 text-base-900 border-2;
-	@apply hover:border-primary-200/80;
+	@apply border-emerald-700 text-base-900 border-2;
+	@apply hover:border-emerald-600/80;
 	@apply focus-visible:ring-primary-200;
 }
 
